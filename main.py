@@ -6,9 +6,9 @@ df = pd.read_csv('id.txt', delimiter = ",")
 df["number"] = df.version
 df["branch"] = df.version
 
-NEXUS_URL="nexus.vodafone.local"
-USERNAME="piamguler"
-PASSWORD="Ab1112131415"
+NEXUS_URL=""
+USERNAME=""
+PASSWORD=""
 
 k = 0
 for ver in df.version:
