@@ -9,7 +9,7 @@ NEXUS_URL/IMAGE:master-4
 NEXUS_URL/IMAGE:master-5  
 NEXUS_URL/IMAGE:master-6  
 
-NEXUS_URL/IMAGE:master-6 will be deleted.
+NEXUS_URL/IMAGE:master-1 will be deleted.
 
 ## Run Commands
 
