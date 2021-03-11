@@ -30,7 +30,6 @@ grouped = sorted.groupby(['app','branch'])
 
 def deleteByID(index):
     os.system("curl -X DELETE 'http://"+NEXUS_URL+"/service/rest/v1/components/"+index+"' -u "+USERNAME+":"+PASSWORD+" -H 'accept: application/json'")
-    pass
 
 imageCount = 0
 i = 0
